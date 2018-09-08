@@ -12,6 +12,7 @@ int main()
     float number2F;
     
     std::cout << "ESTOS CAMBIOS SE HACEN EN GIT GUI PARA CONTROL DE VERSION" << std::endl;
+     std::cout << "otro cambio" << std::endl;
     
     std::cout << "CONVERTIDOR DE UN NUMERO ENTERO A FLOTANTE Y VICEVERSA" << std::endl;
     std::cout << "INGRESE UN NUMERO ENTERO" << std::endl;
